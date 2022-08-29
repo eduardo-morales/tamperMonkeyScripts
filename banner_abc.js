@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Quitar login modal de ABC color
+// @name         Quitar login modal de ABC color abc.com.py
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Quitar el odioso modal de ABC color
+// @description  Quitar el odioso modal de ABC color abc.com.py
 // @author       Eduardo Morales https://twitter.com/moralotto
 // @match        https://www.abc.com.py/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
