@@ -1,6 +1,4 @@
 # tamperMonkeyScripts by @moralotto
-# userscripts
-
 Repo de scripts personales.  Para installar cualquiera de ellos:
 
 - Instalar [Tampermonkey para Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en)
